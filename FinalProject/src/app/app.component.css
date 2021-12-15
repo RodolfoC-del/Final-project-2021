@@ -37,8 +37,20 @@
           {
           float: left;
           font-size: 19px;
-          padding-left: 140px;
-          padding-right: 106px;
+          padding-left: 139px;
+          padding-right: 107px;
+          padding-top: 14px;
+          padding-bottom: 14px;
+          display: block;
+          transition: 1s;
+          text-decoration: none;
+          }
+      .menu2
+          {
+          float: left;
+          font-size: 19px;
+          padding-left: 153.4px;
+          padding-right: 107px;
           padding-top: 14px;
           padding-bottom: 14px;
           display: block;
@@ -46,6 +58,12 @@
           text-decoration: none;
           }
       .menu:hover
+      {
+        opacity: 0.5;
+        background-color: #ffd4dc;
+        transition: 1s;
+      }
+      .menu2:hover
       {
         opacity: 0.5;
         background-color: #ffd4dc;
