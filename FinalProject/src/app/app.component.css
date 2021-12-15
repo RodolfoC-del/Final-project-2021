@@ -1,14 +1,4 @@
-/* Menu */
-@font-face {
-    font-family: gravity;
-    src: url("gravity/gravi.otf");
-  }
-       
-  body, ul, a, li
-  {
-      font-family: gravity1;
-  }
-  
+/* Menu */  
   .transition1
           {
           background-color: #ffe3e3;
@@ -36,7 +26,6 @@
           {
           text-decoration: none;
           color: black;
-          font-family: gravi;
           }
       ul
           {
@@ -54,7 +43,6 @@
       li
           {
           float: left;
-          font-family: gravi;
           font-size: 19px;
           }
       li a
